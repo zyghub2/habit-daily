@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-20",
+  "items": [
+    {
+      "name": "先听后说",
+      "cat": "社交",
+      "desc": "开会或聊天时，先完整复述对方的意思，确认理解后再表达自己的观点。",
+      "why": "人物：肖恩·柯维（《高效能人士的七个习慣》作者之子）在 CNN English Express 访谈中表示，如果只给日本社会挑一条，他会选第五个习惯「知彼解己」。",
+      "source": "CNN English Express 2026年8月号",
+      "url": "https://ee.asahipress.com/common/issues/2026/08/documents/p091-101_k_specialinterview.pdf",
+      "tag": "人物访谈"
+    },
+    {
+      "name": "雷打不动的10分钟",
+      "cat": "效率",
+      "desc": "每天固定做一件只需 10 分钟的小事（散步、半页日记、10 页书都行），绝不跳过。",
+      "why": "热点：Forbes JAPAN 介绍了「关键习惯（Keystone Habit）」的概念——用一个短到无法拒绝的每日小仪式，建立「说到做到」的自我信任。",
+      "source": "Forbes JAPAN",
+      "url": "https://forbesjapan.com/articles/detail/86463",
+      "tag": "热点话题"
+    }
+  ]
+}
