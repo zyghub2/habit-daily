@@ -1,14 +1,1 @@
-{
-  "date": "2026-11-22",
-  "items": [
-    {
-      "name": "每天动一动20分钟",
-      "cat": "运动",
-      "desc": "每天安排至少20分钟中等强度活动（快走、骑车、跳绳都行），不追求练多狠，重在天天都做，做完打卡。",
-      "why": "热点：挪威西部应用科学大学团队在《PLOS One》发表的研究追踪了一万多名大学生，发现与焦虑、抑郁风险关联最稳定的是运动频率，而不是强度或时长；运动越规律，一年后的心理问题风险越低（观察性研究，非因果证明）。",
-      "source": "ScienceDaily（PLOS One）",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261119194601.htm",
-      "tag": "热点话题"
-    }
-  ]
-}
+{"date":"2026-11-23","items":[{"name":"晚饭早吃不加餐","cat":"饮食","desc":"今天尽量早点吃完晚饭，之后到第二天早餐前不再吃夜宵零食，第二天照常吃早饭，做到就打卡。","why":"热点：巴塞罗那全球健康研究所（ISGlobal）追踪7000多名40–65岁成年人五年，发现晚饭早、早餐早、夜间空腹时间更长的人BMI更低，而早餐吃得晚、进食次数多的人BMI更高（观察性研究，不能证明因果）。","source":"ScienceAlert","url":"https://www.sciencealert.com/scientists-link-2-simple-eating-habits-to-lasting-lower-weight","tag":"热点话题"},{"name":"写下一项自身长处","cat":"心理","desc":"每天花几分钟回想一段曾经熬过的难关，写下当时帮你撑过去的一个品质，再想想它能怎样帮你推进眼前的一个目标。","why":"热点：维也纳大学团队在《Personality and Social Psychology Bulletin》发表的实验发现，回顾自身长处能提升人们对自己能力的信心，选了个人目标的参与者两周内完成度约64%，对照组约43%（样本为有抑郁经历者，进度为自评）。","source":"Forbes","url":"https://www.forbes.com/sites/traversmark/2026/11/21/a-small-daily-habit-to-bring-out-the-best-version-of-you-by-a-psychologist/","tag":"热点话题"}]}
